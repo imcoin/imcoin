@@ -1,11 +1,5 @@
-# STATIC
+# imCoin
 
-**This directory is not required, you can delete it if you don't want to use it.**
+This is a convenient trade operation, fast switch to different coin exchange or different account, trade all in one.
 
-This directory contains your static files.
-Each file inside this directory is mapped to `/`.
-Thus you'd want to delete this README.md before deploying to production.
-
-Example: `/static/robots.txt` is mapped as `/robots.txt`.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/assets#static).
+Use it if you believe it or leave please
